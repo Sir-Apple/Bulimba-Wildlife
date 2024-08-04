@@ -1,0 +1,50 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:26.08.2014 23:11:41
+
+newmtl Rock_Grass
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2902 0.3294 0.1804
+	Ks 0.1800 0.1800 0.1800
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\180\35\RockGC.jpg
+	map_Kd Z:\资源库\Models\180\35\RockGC.jpg
+	map_bump Z:\资源库\Models\180\35\RockGB.jpg
+	bump Z:\资源库\Models\180\35\RockGB.jpg
+
+newmtl Grass_Big_Big
+	Ns 48.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3647 0.4549 0.0588
+	Ks 0.3500 0.3500 0.3500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\180\35\RockG2C.jpg
+	map_Kd Z:\资源库\Models\180\35\RockG2C.jpg
+	map_bump Z:\资源库\Models\180\35\RockG2B.jpg
+	bump Z:\资源库\Models\180\35\RockG2B.jpg
+
+newmtl Big_Rock
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4549 0.4314 0.3137
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Z:\资源库\Models\180\35\RockC.jpg
+	map_Kd Z:\资源库\Models\180\35\RockC.jpg
+	map_bump Z:\资源库\Models\180\35\RockB.jpg
+	bump Z:\资源库\Models\180\35\RockB.jpg

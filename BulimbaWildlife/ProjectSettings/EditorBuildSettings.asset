@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ab3f70cffd4a1b547be68480842d728b
+  - enabled: 1
+    path: Assets/Scenes/AnimalSelection.unity
+    guid: 2366c2004f40f5d4b998816956be7292
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 3c2b7becf3cd51c4385ad08c741dd0f4
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5b78c3285469b5a4abb3bc8afee55228
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0aaa797a863fd5b4e81cfe034439beb0
+  m_configObjects: {}
