@@ -15,6 +15,11 @@ The game itself is a third person simulation of the modern-day Bulimba Creek Cat
 
 To summarise how this game design will adhere to the given project brief, It will be designed for use on an android phone, all plants and animals found within the game have to be chosen because of their appearance within the Bulimba Creek Catchment area, core mechanics are inspired by the relationships between the plants and animals found within the Bulimba Creek Catchment area and the gameplay loop and controls will be simple enough for anyone to understand without sacrificing important details/interactions.
 
+## Download the project
+
+1. Download the zipfile.
+2. This project was developed with Unity 2019.4.4f1, so make sure that this version or higher version of Unity installed.
+3. Make sure the Unity Hub is also installed. Add the project to the Unity Hub and open the Unity Editor with it.
 
 ## APK file download link
 
