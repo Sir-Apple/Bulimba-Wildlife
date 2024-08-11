@@ -2,6 +2,11 @@
 
 Demo video: https://www.youtube.com/watch?v=BWAfo7ufR1c
 
+Technology used:
+- Unity
+- C#
+- Blender
+
 ## Description
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2672249f-8f3a-471b-a585-99e37c05291e" alt="bulimbawildlife" width="420" height="250">
